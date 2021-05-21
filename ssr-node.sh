@@ -203,7 +203,7 @@ backend_docking_netflix(){
 start_menu(){
     clear
     greenbg "==============================================================="
-    greenbg "程序：sspanel后端对接【破解付费授权版】 v1.3                    "
+    greenbg "程序：sspanel后端对接【破解付费授权版】 v1.3                   "
     greenbg "系统：Centos7.x、Ubuntu、Debian等                              "
     greenbg "==============================================================="
     echo
